@@ -8,7 +8,7 @@
 # Supirior BOT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-This is the one and only official Superior BOT Userbot made by [@PythonProgramingIN and @legendx22](https://t.me/LEGENDX22 https:t.me/PythonProgramingIn) Also join support channel and group :- https://t.me/teamishere Enjoy Your Bot!!💝
+This is the one and only official Superior BOT Userbot made by [@PythonProgramingIN and @legendx22](https://t.me/LEGENDX22 https:t.me/PythonProgramingIn) Also join support channel and group :- https://t.me/SuperBOTTG  Enjoy Your Bot!!💝
 [![Superioir Bot logo](https://telegra.ph/file/fd0c6732fa1fdfeae2419.png)](https://t.me/teamishere)
 
 
