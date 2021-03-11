@@ -1,7 +1,7 @@
 {
-  "name": "LEGEND BOT",
-  "description": "The best userbot made by @LEGENDX22. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @teamishere ",
-  "logo": "https://telegra.ph/file/a44f1363bddbba84a2b98.jpg",
+  "name": "SuperiorBot",
+  "description": "The best userbot made by @LEGENDX22 and @PythonProgramingIN . Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @teamishere ",
+  "logo": "https://telegra.ph/file/fd0c6732fa1fdfeae2419.png",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/legendxop/LEGEND-BOT/",
-  "website": "https://github.com/legendxop/LEGEND-BOT/",
-  "success_url": "https://t.me/teamishere",
+  "repository": "https://github.com/Superior-User-Bot/Superior-Userbot-Telegram/",
+  "website": "https://github.com/Superior-User-Bot/Superior-Userbot-Telegram/",
+  "success_url": "https://t.me/SuperBOTTG",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -111,7 +111,7 @@
        "value": ""
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://repl.it/@legendx22/LEGEND-BOT#main.py ",
+      "description": "Get this value by running https://repl.it/@amanpandey7647/SuperiorBot#main.py ",
       "value": ""
     },
     "GITHUB_ACCESS_TOKEN": {
