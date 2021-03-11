@@ -26,7 +26,7 @@ This is the one and only official Superior BOT Userbot made by [@PythonProgramin
 
 ## FOR DEPLOY BOT 
 
-[![Deploy To Heroku]<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Superior-User-Bot/Superior-Userbot-Telegram/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+[![Deploy To Heroku]<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Superior-User-Bot/Superior-Userbot-Telegram"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ------------------------------------------------
 
