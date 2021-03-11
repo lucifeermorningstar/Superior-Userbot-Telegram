@@ -5,7 +5,7 @@
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/legendx22)(@pythonprogramingin)
 
 
-# LEGEND BOT
+# Supirior BOT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 This is the one and only official Superior BOT Userbot made by [@PythonProgramingIN and @legendx22](https://t.me/LEGENDX22 https:t.me/PythonProgramingIn) Also join support channel and group :- https://t.me/teamishere Enjoy Your Bot!!💝
@@ -16,7 +16,7 @@ This is the one and only official Superior BOT Userbot made by [@PythonProgramin
 
 
 # STRING SESSION:-
-### [String Session](https://repl.it/@amanpandey7647/LEGEND-BOT#main.py)
+### [String Session](https://repl.it/@amanpandey7647/SuperiorBot#main.py)
 
 # FORK AT YOUR OWN RISK
 ## Installing
@@ -36,15 +36,15 @@ This is the one and only official Superior BOT Userbot made by [@PythonProgramin
 ## One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 ## Official Support 💖
-<a href="https://t.me/hackerget0"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/SuperBOTTG"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://t.me/teamishere"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## The Normal Way
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/legendx22/LEGEND-BOT
-cd LEGEND-BOT
+git clone https://github.com/Superior-User-Bot/Superior-Userbot-Telegram
+cd Superior-Userbot-Telegram
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
