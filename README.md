@@ -26,13 +26,14 @@ This is the one and only official Superior BOT Userbot made by [@PythonProgramin
 
 ## FOR DEPLOY BOT 
 
-[![Deploy To Heroku]<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Superior-User-Bot/Superior-Userbot-Telegram"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FSuperior-User-Bot%2Flegendpack&template=https%3A%2F%2Fgithub.com%2FSuperior-User-Bot%2Flegendpack)
 
 ------------------------------------------------
 
 
 # Credits👀
-### • [LEGEND BOT X Superior Bot](https://github.com/TeamLEGENDX/LegendBOT)
+## - **@LEGENDX22**
+## • [LEGEND BOT X Superior Bot](https://github.com/TeamLEGENDX/LegendBOT)
 ## One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 ## Official Support 💖
