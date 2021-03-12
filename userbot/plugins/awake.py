@@ -49,7 +49,7 @@ async def amireallyalive(awake):
    ALIVE_MESSAGE += "🔶 Superioir  𝚅𝙴𝚁𝚂𝙸𝙾𝙽 🔶 :   2.8\n\n"
    ALIVE_MESSAGE += f"🔷 𝚄𝙿𝚃𝙸𝙼𝙴 🔷 : {uptm}\n\n"
    ALIVE_MESSAGE += f"💠 𝙼𝚈 𝙱𝙾𝚂𝚂 💠: [{DEFAULTUSER}](tg://user?id={tag})\n\n"
-   ALIVE_MESSAGE += f"💠 [𝙳𝙴𝙿𝙻𝙾𝚈](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FLEGENDXOP%2FLEGEN-BOT&template=https%3A%2F%2Fgithub.com%2FLEGENDXOP%2FLEGEND-ROBOT) 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽 𝙾𝙿 [{BOT}](http://github.com/legendxop/legend-bot)  💠\n"   
+   ALIVE_MESSAGE += f"💠 [𝙳𝙴𝙿𝙻𝙾𝚈](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FSuperior-User-Bot%2FSuperior-Userbot-Telegram&template=https%3A%2F%2Fgithub.com%2FSuperior-User-Bot%2FSuperior-Userbot-Telegram) 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽 𝙾𝙿 [{BOT}](https://github.com/Superior-User-Bot/Superior-Userbot-Telegram)  💠\n"   
    await awake.delete() 
    await borg.send_file(awake.chat_id, ALIVE_PHOTTO,caption=ALIVE_MESSAGE)
 
